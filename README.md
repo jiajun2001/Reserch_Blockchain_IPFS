@@ -1,0 +1,2 @@
+Research on utilizing blockchains to improve data security
+This research report demonstrates introductions and motivations for the selected computer science topic as well as related challenges, shows reviews and critiques for current solutions, and illustrates the mechanism of the proposed solution.
